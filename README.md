@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Danyal Shah</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="Coder" width="400px src=" https://www.pinterest.com/pin/126663808259169690/sent/?invite_code=82bc93dc26a8496bb07547c869e1148c&sender=796292915273048383&sfo=1">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danyalthewebdev&label=Profile%20views&color=0e75b6&style=flat" alt="danyalthewebdev" /> </p>
+<img align="right" alt="Coder" width="400px src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1708816%2Fscreenshots%2F15637256%2Fmedia%2Ff9826f0af8a49462f048262a8502035b.gif&tbnid=QuqbC-xCVJtgOM&vet=12ahUKEwiHsdKcjZb-AhUyrEwKHUYPCOoQMygJegUIARCtAg..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F15637256-coding&docid=Hs38mEIbhvwnsM&w=1600&h=1200&q=animated%20coding%20gif&ved=2ahUKEwiHsdKcjZb-AhUyrEwKHUYPCOoQMygJegUIARCtAg#imgrc=QuqbC-xCVJtgOM&imgdii=7LDHbjbijMuQ9M">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danyalthewebdev&label=Profile%20views&color=0e75b6&style=flat" alt="danyalthewebdev" /> 
+</p>
 
 - 🌱 I’m currently learning **Frond end development by Meta on Coursera**
 
